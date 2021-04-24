@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rodrigo Orellana (@rodr1ck)
 - 👀 I’m an Electronics Engineer converted into a Software Developer. I'm interested in FullStack Development Projects...
-- 🌱 I’m currently learning Python at Udacity
+- 🌱 I’m currently learning MERN Full-Stack Developement @CodingDojo
 - 💞️ I’m looking to collaborate on non-profit projects
 - 📫 How to reach me? ... You can find my email in my profile
 
